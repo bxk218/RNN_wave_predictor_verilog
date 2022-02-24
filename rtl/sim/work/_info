@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.0/sim
+vinput_sram
+Z0 !s110 1644907556
+!i10b 1
+!s100 n8582>Obie]GUM7IhEn<22
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgoBYcDFjElhhZcZJlj27l1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/sim
+w1644903638
+8C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v
+FC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v
+!i122 0
+L0 1 231
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1644907556.000000
+!s107 C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+voutput_sram
+R0
+!i10b 1
+!s100 jQgZGoQh7oQ>lHSWhZcVY3
+R1
+Icnj`;Mo]BMKn1fdWndPnF1
+R2
+R3
+w1644903724
+8C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v
+FC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v
+!i122 1
+L0 1 20
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v|
+!i113 1
+R6
+R7
+vrnn_comp
+R0
+!i10b 1
+!s100 9XEPj4Q`[SZQnI_gWmYOB1
+R1
+IEk<lHfY9`JYa4^7dU0Ckh0
+R2
+R3
+Z8 w1644904037
+Z9 8C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v
+Z10 FC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v
+!i122 2
+L0 1 715
+R4
+r1
+!s85 0
+31
+R5
+Z11 !s107 C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v|
+!i113 1
+R6
+R7
+vtanh
+R0
+!i10b 1
+!s100 5Bb99=F0zeS^NPbe8;A4P1
+R1
+I_kSoa_J[1NcJNXNz8c6d`1
+R2
+R3
+R8
+R9
+R10
+!i122 2
+L0 720 10
+R4
+r1
+!s85 0
+31
+R5
+R11
+R12
+!i113 1
+R6
+R7
+vtb_rnn_comp
+R0
+!i10b 1
+!s100 ^CZjj;dg9Lh0m4?`DDAPi0
+R1
+IkJU`HZ>l@=l3Uh8<5OZVR2
+R2
+R3
+w1644904908
+8C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v
+FC:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v
+!i122 3
+L0 2 629
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,30 @@
+C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v {1 {vlog -work work -stats=none C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/output_sram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module output_sram
+
+Top level modules:
+	output_sram
+
+} {} {}} C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v {1 {vlog -work work -stats=none C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/rnn_comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rnn_comp
+-- Compiling module tanh
+
+Top level modules:
+	rnn_comp
+
+} {} {}} C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v {1 {vlog -work work -stats=none C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/tb_rnn_comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_rnn_comp
+
+Top level modules:
+	tb_rnn_comp
+
+} {} {}} C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v {1 {vlog -work work -stats=none C:/Users/bxk21/Documents/04.Verilog/simpleSineDetector/simpleWaveDetector/vivado_v7.1/input_sram.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module input_sram
+
+Top level modules:
+	input_sram
+
+} {} {}}
