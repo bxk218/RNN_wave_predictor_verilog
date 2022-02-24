@@ -1,3 +1,5 @@
 # RNN_wave_predictor_verilog
 
-RNN_wave_predictor.ipynb -> Reference Design (Pytorch model for reference design)
+For the detail, visit the below blog
+
+https://braintrans.blogspot.com/
