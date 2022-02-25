@@ -1,6 +1,6 @@
 # RNN_wave_predictor_verilog
 
-For the detail, visit the below blog
+For the detail, visit the below blogs
 
 https://braintrans.blogspot.com/    (English)
 
