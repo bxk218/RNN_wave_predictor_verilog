@@ -2,4 +2,6 @@
 
 For the detail, visit the below blog
 
-https://braintrans.blogspot.com/
+https://braintrans.blogspot.com/    (English)
+
+https://braintrans.tistory.com/     (Korean)
